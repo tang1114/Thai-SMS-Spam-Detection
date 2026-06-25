@@ -7,7 +7,7 @@
 ---
 
 ## My Role & Responsibilities
-ในโปรเจกต์นี้เป็นส่วนหนึ่งในชั้นเรียน ซึ่งผมใน notebook นี้มีแค่ส่วนที่ผมรับผิดชอบ ซึ่งผมทำในส่วน End-to-End ML Pipeline ทั้งหมด:
+ในโปรเจกต์นี้เป็นส่วนหนึ่งในชั้นเรียน ซึ่งใน notebook นี้มีแค่ส่วนที่ผมรับผิดชอบ ซึ่งผมทำในส่วน End-to-End ML Pipeline ทั้งหมด:
 - **Data Preprocessing & Feature Engineering:** พัฒนาระบบตัดคำภาษาไทย (PyThaiNLP) คลีนข้อความ และสกัดฟีเจอร์เฉพาะกลุ่มข้อความหลอกลวง เช่น ลิงก์ย่อ (Short URLs), จำนวนเงิน, รหัส USSD และกลุ่มคำเร่งด่วน/คำสแกมเฉพาะ
 - **Model Training & Evaluation:** พัฒนาและเปรียบเทียบโมเดล 4 รูปแบบ (Logistic Regression, Naive Bayes, Random Forest, และ Neural Network) บนอัตราส่วน Train:Test ที่หลากหลาย
 - **Model Interpretability:** สร้างระบบวิเคราะห์เหตุผลเบื้องหลังคำทำนาย (Reasoning System) เพื่อแจกแจงออกมาเป็นเปอร์เซ็นต์ความเสี่ยง[cite: 1]
